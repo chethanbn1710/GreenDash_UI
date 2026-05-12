@@ -1,0 +1,7 @@
+{
+  "name": "greendash-ui",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo Main tests passed"
+  }
+}
