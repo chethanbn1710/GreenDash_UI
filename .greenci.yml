@@ -1,3 +1,4 @@
-test:
+frontend-build:
   script:
+    - npm install
     - npm test
